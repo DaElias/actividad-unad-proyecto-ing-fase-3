@@ -1,9 +1,9 @@
-export default function IconPerson() {
+export default function IconPerson({ size = "42.667" }) {
     return (
         <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="42.667"
-            height="42.667"
+            width={size}
+            height={size}
             version="1"
             viewBox="0 0 32 32"
         >

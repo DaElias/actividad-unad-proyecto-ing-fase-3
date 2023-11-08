@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "NAPR y la Revolución Digital: Acceso a la Información para la Igualdad",
+        "description": "Exploramos los desafíos históricos que enfrentan las comunidades NAPR en Colombia y cómo la falta de acceso a información relevante puede cambiar gracias a un proyecto de ingeniería de sistemas y colaboración externa.",
+        "create_by": "Juan Carlos Sánchez",
+        "date_time": "Hace 3 dias",
+        "url": "https://www.ucaldas.edu.co/portal/wp-content/uploads/2020/07/comunidad-afro.jpg",
+        "check": true
+    },
+    {
+        "id": 2,
+        "title": "Construyendo Puentes Digitales: La Nueva Era de Empoderamiento NAPR",
+        "description": "Acompáñanos en un viaje hacia la transformación social mientras exploramos cómo una página web y una aplicación están empoderando a las comunidades Negras, Afrocolombianas, Palenqueras y Raizales (NAPR) en Colombia.",
+        "create_by": "Carolina Gomez",
+        "date_time": "Hace 2 dias",
+        "url": "https://www.ucaldas.edu.co/portal/wp-content/uploads/2020/07/comunidad-afro.jpg",
+        "check": false
+    },
+    {
+        "id": 3,
+        "title": "NAPR y la Era de la Información: Superando Desafíos Históricos",
+        "description": "Este artículo destaca la necesidad apremiante de abordar las desigualdades que enfrentan las comunidades NAPR en Colombia y cómo un proyecto colaborativo está cambiando el panorama.",
+        "create_by": "Lucy Hiddleston",
+        "date_time": "14/06/23",
+        "url": "https://www.ucaldas.edu.co/portal/wp-content/uploads/2020/07/comunidad-afro.jpg",
+        "check": true
+    },
+    {
+        "id": 4,
+        "title": "Acceso a Oportunidades: El Camino Hacia una Colombia más Justa",
+        "description": "Exploramos cómo la falta de acceso a información confiable ha afectado a las comunidades NAPR en Colombia y cómo una página web y una aplicación están marcando la diferencia.",
+        "create_by": "Lucy Hiddleston",
+        "date_time": "03/05/23",
+        "url": "https://www.ucaldas.edu.co/portal/wp-content/uploads/2020/07/comunidad-afro.jpg",
+        "check": false
+    }
+]

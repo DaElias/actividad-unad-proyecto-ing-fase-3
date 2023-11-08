@@ -5,7 +5,9 @@ export default function Container({ children }) {
     return (
         <>
             <Navbar />
-            {children}
+            <main className='bg-gray-100'>
+                {children}
+            </main>
             <Footer />
         </>
     )
