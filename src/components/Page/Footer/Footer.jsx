@@ -8,8 +8,8 @@ import IconX from "@/components/ui/svg/IconX";
 
 export default function Footer() {
     return (
-        <footer className="b-0 bg-blue-900 w-full h-56 text-white">
-            <ul className="h-full w-full px-10 flex justify-between items-center text-center">
+        <footer className="bg-blue-900 w-full text-white py-5 sm:py-10">
+            <ul className="h-full w-full px-10 flex flex-col sm:flex-row justify-between items-center text-center">
                 <li className="flex flex-col gap-4 justify-center items-center" >
                     {/* Logo */}
                     <Image src={Logo} className="bg-white rounded-2xl" alt="Logo-footer" height={50} width={100} />
