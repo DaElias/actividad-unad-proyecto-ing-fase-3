@@ -5,6 +5,7 @@ import IconShare from '@/components/ui/svg/IconShare'
 import IconPin from '@/components/ui/svg/IconPin'
 import image_1 from 'public/photo-1.jpeg'
 import IconRecording from '@/components/ui/svg/IconRecording'
+import ButtonClassic from '@/components/ui/ButtonClassic'
 
 export default function Home() {
     return (
@@ -32,9 +33,14 @@ export default function Home() {
                     </div>
                 </section>
             </article>
-            <article className='flex justify-center pb-20'>
-                <section className='w-full px-20'>
+            <article className='flex justify-center pb-10'>
+                <section className='w-full px-20 '>
                     <ListBlogsHome />
+                    <div className='flex justify-center py-10'>
+                        <ButtonClassic >
+                            Ver mas
+                        </ButtonClassic>
+                    </div>
                 </section>
                 <aside className='w-1/3 mr-10'>
                     <div className='sm:sticky sm:top-5  sm:h-[250px]'>
@@ -49,7 +55,6 @@ export default function Home() {
                             </div>
                         </div>
                     </div>
-
                 </aside>
             </article>
         </>
